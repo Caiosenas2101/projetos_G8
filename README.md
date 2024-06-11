@@ -54,7 +54,6 @@ Olá, bem-vindo ao repositório do projeto_g8! Desenvolvido por estudantes da Ce
 <img src="/imagem/bugtracker4.jpg" />
 <img src="/imagem/bugtracker5.jpg" />
 <img src="/imagem/bugtracker6.jpg" />
-<img src="<img width="979" alt="image" src="https://github.com/Caiosenas2101/projetos_G8/assets/143144490/96585a18-392c-4ab1-ad1e-50beddb2e49c" />
 
 <br> 
 
